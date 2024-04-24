@@ -1,2 +1,2 @@
-# Zef-News
-A news website
+# thenews
+ my first react app
